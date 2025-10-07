@@ -1,0 +1,23 @@
+# Ignore environment variables
+.env
+
+# Ignore Python cache and compiled files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore virtual environments
+venv/
+.env/
+.venv/
+
+# Ignore data files
+data/*.csv
+
+# Ignore Streamlit cache
+.streamlit/
+
+# OS files
+.DS_Store
+Thumbs.db
