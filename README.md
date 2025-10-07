@@ -146,5 +146,4 @@ The chatbot uses three structured system prompts to guide conversation:
 
 ## 👨‍💻 Author
 **Ribhu Pramanik**  
-*Developer – TalentScout Hiring Assistant*  
-📧 [your.email@example.com]
+
